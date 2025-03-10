@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\WhatsInTheBoxComposite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD419740-5870-4248-B2C5-61261578D58B}|WhatsInTheBoxComposite\\WhatsInTheBoxComposite.csproj|c:\\users\\stefa\\onedrive\\desktop\\class\\3rd year vs\\whatsintheboxcomposite\\whatsintheboxcomposite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD419740-5870-4248-B2C5-61261578D58B}|WhatsInTheBoxComposite\\WhatsInTheBoxComposite.csproj|solutionrelative:whatsintheboxcomposite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD419740-5870-4248-B2C5-61261578D58B}|WhatsInTheBoxComposite\\WhatsInTheBoxComposite.csproj|c:\\users\\stefa\\onedrive\\desktop\\class\\3rd year vs\\whatsintheboxcomposite\\whatsintheboxcomposite\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD419740-5870-4248-B2C5-61261578D58B}|WhatsInTheBoxComposite\\WhatsInTheBoxComposite.csproj|solutionrelative:whatsintheboxcomposite\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD419740-5870-4248-B2C5-61261578D58B}|WhatsInTheBoxComposite\\WhatsInTheBoxComposite.csproj|c:\\users\\stefa\\onedrive\\desktop\\class\\3rd year vs\\whatsintheboxcomposite\\whatsintheboxcomposite\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD419740-5870-4248-B2C5-61261578D58B}|WhatsInTheBoxComposite\\WhatsInTheBoxComposite.csproj|solutionrelative:whatsintheboxcomposite\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD419740-5870-4248-B2C5-61261578D58B}|WhatsInTheBoxComposite\\WhatsInTheBoxComposite.csproj|c:\\users\\stefa\\onedrive\\desktop\\class\\3rd year vs\\whatsintheboxcomposite\\whatsintheboxcomposite\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD419740-5870-4248-B2C5-61261578D58B}|WhatsInTheBoxComposite\\WhatsInTheBoxComposite.csproj|solutionrelative:whatsintheboxcomposite\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD419740-5870-4248-B2C5-61261578D58B}|WhatsInTheBoxComposite\\WhatsInTheBoxComposite.csproj|c:\\users\\stefa\\onedrive\\desktop\\class\\3rd year vs\\whatsintheboxcomposite\\whatsintheboxcomposite\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD419740-5870-4248-B2C5-61261578D58B}|WhatsInTheBoxComposite\\WhatsInTheBoxComposite.csproj|solutionrelative:whatsintheboxcomposite\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Composite.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\WhatsInTheBoxComposite\\WhatsInTheBoxComposite\\Composite.cs",
+              "RelativeDocumentMoniker": "WhatsInTheBoxComposite\\Composite.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\WhatsInTheBoxComposite\\WhatsInTheBoxComposite\\Composite.cs",
+              "RelativeToolTip": "WhatsInTheBoxComposite\\Composite.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:47:22.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Leaf.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\WhatsInTheBoxComposite\\WhatsInTheBoxComposite\\Leaf.cs",
+              "RelativeDocumentMoniker": "WhatsInTheBoxComposite\\Leaf.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\WhatsInTheBoxComposite\\WhatsInTheBoxComposite\\Leaf.cs",
+              "RelativeToolTip": "WhatsInTheBoxComposite\\Leaf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:42:31.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\WhatsInTheBoxComposite\\WhatsInTheBoxComposite\\Items.cs",
+              "RelativeDocumentMoniker": "WhatsInTheBoxComposite\\Items.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\WhatsInTheBoxComposite\\WhatsInTheBoxComposite\\Items.cs",
+              "RelativeToolTip": "WhatsInTheBoxComposite\\Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:39:24.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IComponent.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\WhatsInTheBoxComposite\\WhatsInTheBoxComposite\\IComponent.cs",
+              "RelativeDocumentMoniker": "WhatsInTheBoxComposite\\IComponent.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\WhatsInTheBoxComposite\\WhatsInTheBoxComposite\\IComponent.cs",
+              "RelativeToolTip": "WhatsInTheBoxComposite\\IComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:35:28.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\WhatsInTheBoxComposite\\WhatsInTheBoxComposite\\Program.cs",
+              "RelativeDocumentMoniker": "WhatsInTheBoxComposite\\Program.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\WhatsInTheBoxComposite\\WhatsInTheBoxComposite\\Program.cs",
+              "RelativeToolTip": "WhatsInTheBoxComposite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:34:42.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

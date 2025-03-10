@@ -1,0 +1,14 @@
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\bin\Debug\net8.0\WhatsInTheBoxComposite.exe
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\bin\Debug\net8.0\WhatsInTheBoxComposite.deps.json
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\bin\Debug\net8.0\WhatsInTheBoxComposite.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\bin\Debug\net8.0\WhatsInTheBoxComposite.dll
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\bin\Debug\net8.0\WhatsInTheBoxComposite.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\obj\Debug\net8.0\WhatsInTheBoxComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\obj\Debug\net8.0\WhatsInTheBoxComposite.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\obj\Debug\net8.0\WhatsInTheBoxComposite.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\obj\Debug\net8.0\WhatsInTheBoxComposite.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\obj\Debug\net8.0\WhatsInTheBoxComposite.dll
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\obj\Debug\net8.0\refint\WhatsInTheBoxComposite.dll
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\obj\Debug\net8.0\WhatsInTheBoxComposite.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\obj\Debug\net8.0\WhatsInTheBoxComposite.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\WhatsInTheBoxComposite\WhatsInTheBoxComposite\obj\Debug\net8.0\ref\WhatsInTheBoxComposite.dll
